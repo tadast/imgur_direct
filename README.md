@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-Make sure to register for (Imgur API usage)[http://api.imgur.com/oauth2/addclient] and set `IMGUR_CLIENT_ID` in your environment. Then you can use it in your code as per examples below. 
+Make sure to register for [Imgur API usage](http://api.imgur.com/oauth2/addclient) and set `IMGUR_CLIENT_ID` in your environment. Then you can use it in your code as per examples below. 
 
 Note that it always returns an array. This is to make the api consistent for galleries, albums and direct links.
 
